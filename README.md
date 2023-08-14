@@ -8,6 +8,8 @@ With my experience in Hardware and Software setup/installation/configuration/tro
 
 <h2>👨‍💻 Information Technology Projects 👨‍💻</h2>
 
+<h3><b><i><a href="https://github.com/whuynhit/LabSetup"> Lab Setup for Active Directory + SCCM </a></i></b></h3>
+
 <details>
 <summary> <h3><b>Active Directory Home Labs</b></h3> </summary>
 
