@@ -164,7 +164,7 @@ With my experience in Hardware and Software setup/installation/configuration/tro
 </details>
 
 <details>
-<summary><h3>Josh Madakor's projects (as sample portfolio visual reference</h3></summary>
+<summary><h3>Josh Madakor's (projects as sample portfolio visual reference)</h3></summary>
   
 - <b> sample PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
