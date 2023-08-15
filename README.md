@@ -26,59 +26,59 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   <details>
   <summary><b><i>Introduction to Group Policy Management</i></b></summary>
   
-  - [Creating and Linking Group Policy Objects]
-  - [Group Policy Precedence]
-  - [Editing Group Policy Objects]
+  - [Creating and Linking Group Policy Objects]()
+  - [Group Policy Precedence]()
+  - [Editing Group Policy Objects]()
 
   </details>
 
   <details>
   <summary><b><i>Group Policy Troubleshooting</i></b></summary>
   
-  - [Troubleshooting Group Policy with MMC (RSOP.msc - Resultant Set of Policy)]
-  - [Troubleshooting Group Policy with Command Prompt (GPResult /r)]
-  - [Creating Non-inheriting Organizational Units for GPO Testing/Troubleshooting]
+  - [Troubleshooting Group Policy with MMC (RSOP.msc - Resultant Set of Policy)]()
+  - [Troubleshooting Group Policy with Command Prompt (GPResult /r)]()
+  - [Creating Non-inheriting Organizational Units for GPO Testing/Troubleshooting]()
 
   </details>
 
   <details>
   <summary><b><i>Managing Workstations</i></b></summary>
   
-  - [Deploying a Desktop Background to Domain with a GPO]
-  - [Setting Up a Logon Banner (Interactive Logon)]
-  - [Deploying Software with Group Policy]
-  - [Configuring Roaming Profiles for User Accounts]
-  - [How to automatically map network share drives with Group Policy]
+  - [Deploying a Desktop Background to Domain with a GPO]()
+  - [Setting Up a Logon Banner (Interactive Logon)]()
+  - [Deploying Software with Group Policy]()
+  - [Configuring Roaming Profiles for User Accounts]()
+  - [How to automatically map network share drives with Group Policy]()
   </details>
 
   <details>
   <summary><b><i>Securing Your Domain</i></b></summary>
   
-  - [Configuring Domain Password and Account Lockout Policies with Group Policy]
-  - [Deploying Fine Grained Password Policies (PSOs)]
-  - [Configuring Windows Firewall with Group Policy]
-  - [Configuring Windows Registry Settings with Group Policy]
+  - [Configuring Domain Password and Account Lockout Policies with Group Policy]()
+  - [Deploying Fine Grained Password Policies (PSOs)]()
+  - [Configuring Windows Firewall with Group Policy]()
+  - [Configuring Windows Registry Settings with Group Policy]()
   </details>
   
   <details>
   <summary><b><i>How to use Powershell with Active Directory</i></b></summary>
   
-  - [Enabling Script Execution for Powershell]
-  - [Powershell Basics]
-  - [Listing Active Directory Users with Powershell]
-  - [Configure User Roaming Profile Path Powershell]
-  - [Creating User Accounts with Powershell]
-  - [Creating User Accounts from a CSV File]
-  - [Move All Disabled Users to "Disabled Users OU" with Powershell]
-  - [How to create Active Directory Accounts with duplicate names]
+  - [Enabling Script Execution for Powershell]()
+  - [Powershell Basics]()
+  - [Listing Active Directory Users with Powershell]()
+  - [Configure User Roaming Profile Path Powershell]()
+  - [Creating User Accounts with Powershell]()
+  - [Creating User Accounts from a CSV File]()
+  - [Move All Disabled Users to "Disabled Users OU" with Powershell]()
+  - [How to create Active Directory Accounts with duplicate names]()
 
   </details>
 
   <details>
   <summary><b><i>Active Directory Backups</i></b></summary>
   
-  - [Creating an Active Directory System State Backup]
-  - [Restoring an Active Directory Backup]
+  - [Creating an Active Directory System State Backup]()
+  - [Restoring an Active Directory Backup]()
   </details>
   
 </details>
@@ -97,68 +97,68 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   <details>
   <summary><b><i>Deploying The SCCM Client</i></b></summary>
     
-  - [Preparing for Client Installations with Group Policy]
-  - [Client Push Installation]
-  - [Deploying the SCCM Client with Group Policy]
-  - [Manual Client Installation]
+  - [Preparing for Client Installations with Group Policy]()
+  - [Client Push Installation]()
+  - [Deploying the SCCM Client with Group Policy]()
+  - [Manual Client Installation]()
   </details>
 
   <details>
   <summary><b><i>Updating SCCM</i></b></summary>
     
-  - [Updating SCCM]
-  - [Verifying the Update]
+  - [Updating SCCM]()
+  - [Verifying the Update]()
   </details>
 
   <details>
   <summary><b><i>User and Device Collections</i></b></summary>
     
-  - [Creating Include/Exclude Collections]
-  - [Query-based User and Device Collections]
-  - [Pull Devices into a Device Collection]
-  - [Role-based Administration Administrative Security Roles]
-  - [Assigning a User Collection to an Administrative Security Role]
-  - [Using Collections to Enable the Remote Control Feature]
-  - [Deploying Power Management to a Collection]
-  - [Using a Collection to Enforce a Maintenance Window]
+  - [Creating Include/Exclude Collections]()
+  - [Query-based User and Device Collections]()
+  - [Pull Devices into a Device Collection]()
+  - [Role-based Administration Administrative Security Roles]()
+  - [Assigning a User Collection to an Administrative Security Role]()
+  - [Using Collections to Enable the Remote Control Feature]()
+  - [Deploying Power Management to a Collection]()
+  - [Using a Collection to Enforce a Maintenance Window]()
   </details>
 
   <details>
   <summary><b><i>Application Management</i></b></summary>
     
-  - [Creating an Application using an MSI]
-  - [Supersedence]
-  - [Creating an Application using an EXE]
-  - [Creating an Application that Requires Approval]
-  - [Creating an Application using the Package Model]
-  - [Uninstatlling an Application]
-  - [Monitoring Applications]
+  - [Creating an Application using an MSI]()
+  - [Supersedence]()
+  - [Creating an Application using an EXE]()
+  - [Creating an Application that Requires Approval]()
+  - [Creating an Application using the Package Model]()
+  - [Uninstatlling an Application]()
+  - [Monitoring Applications]()
   </details>
 
   <details>
   <summary><b><i>Operating System Deployment</i></b></summary>
     
-  - [Creating the Windows 10 Collection]
-  - [OSD - The Basics]
-  - [Creating a Folder for the Captured Image]
-  - [Adding an OS to Configuration Manager]
-  - [Creating a Task Sequence]
-  - [Enabling PXE Support, Configuring WDS]
+  - [Creating the Windows 10 Collection]()
+  - [OSD - The Basics]()
+  - [Creating a Folder for the Captured Image]()
+  - [Adding an OS to Configuration Manager]()
+  - [Creating a Task Sequence]()
+  - [Enabling PXE Support, Configuring WDS]()
   </details>
 
   <details>
   <summary><b><i>Endpoint Protection</i></b></summary>
 
-  - [Endpoint Protection Server Configuration and Installation]
-  - [Configuring an Automatic Deployment Rule (ADR)]
-  - [Endpoint Protection Client Installation]
+  - [Endpoint Protection Server Configuration and Installation]()
+  - [Configuring an Automatic Deployment Rule (ADR)]()
+  - [Endpoint Protection Client Installation]()
   </details>
 
   <details>
   <summary><b><i>Troubleshooting</i></b></summary>
 
-  - [Deploying CMTrace to a Device Collection]
-  - [Troubleshooting a Failed Client Push Installation]
+  - [Deploying CMTrace to a Device Collection]()
+  - [Troubleshooting a Failed Client Push Installation]()
   </details>
   
 </details>
