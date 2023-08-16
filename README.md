@@ -19,7 +19,7 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   - [Creating User Accounts with Active Directory](https://github.com/whuynhit/ActiveDirectory/tree/main/Introduction%20to%20Active%20Directory%20Users%20&%20Computers/Creating%20User%20Accounts%20with%20Active%20Directory)
   - [Searching for Objects in Active Directory](https://github.com/whuynhit/ActiveDirectory/tree/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory)
   - [Resetting User Passwords in Active Directory Users and Computers](https://github.com/whuynhit/ActiveDirectory/tree/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Resetting%20User%20Passwords%20in%20Active%20Directory%20Users%20and%20Computers)
-  - [Understanding Groups and Memberships]([https://github.com/whuynhit/ActiveDirectory](https://github.com/whuynhit/ActiveDirectory/tree/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Understanding%20Groups%20and%20Memberships))
+  - [Understanding Groups and Memberships](https://github.com/whuynhit/ActiveDirectory/tree/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Understanding%20Groups%20and%20Memberships)
   - [Disabling and Deleting User Accounts with Active Directory](https://github.com/whuynhit/ActiveDirectory/tree/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Disabling%20and%20Deleting%20User%20Accounts%20with%20Active%20Directory)
   </details>
 
