@@ -26,9 +26,8 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   <details>
   <summary><b><i>Introduction to Group Policy Management</i></b></summary>
   
-  - [Creating and Linking Group Policy Objects]()
-  - [Group Policy Precedence]()
-  - [Editing Group Policy Objects]()
+  - [Creating and Linking Group Policy Objects](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Group%20Policy%20Management/Creating%20and%20Linking%20Group%20Policy%20Objects/README.md)
+  - [Editing Group Policy Objects](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Group%20Policy%20Management/Editing%20Group%20Policy%20Objects/README.md)
 
   </details>
 
