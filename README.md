@@ -34,9 +34,9 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   <details>
   <summary><b><i>Group Policy Troubleshooting</i></b></summary>
   
-  - [Troubleshooting Group Policy with MMC (RSOP.msc - Resultant Set of Policy)]()
-  - [Troubleshooting Group Policy with Command Prompt (GPResult /r)]()
-  - [Creating Non-inheriting Organizational Units for GPO Testing/Troubleshooting]()
+  - [Troubleshooting Group Policy with MMC (RSOP.msc - Resultant Set of Policy)](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Troubleshooting%20Group%20Policy%20with%20MMC%20(RSOP.msc%20-%20Resultant%20Set%20of%20Policy)/README.md)
+  - [Troubleshooting Group Policy with Command Prompt (GPResult /r)](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Troubleshooting%20Group%20Policy%20with%20Command%20Prompt%20(GPResult%20r)/README.md)
+  - [Creating Non-inheriting Organizational Units for GPO Testing/Troubleshooting](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/README.md)
 
   </details>
 
