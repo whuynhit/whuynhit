@@ -11,7 +11,7 @@ With my experience in Hardware and Software setup/installation/configuration/tro
 <h3><b><a href="https://github.com/whuynhit/LabSetup/blob/main/README.md"> Lab Setup for Active Directory + SCCM </a></b></h3>
 
 <details>
-<summary> <h3><b>Active Directory Home Labs</b></h3> </summary>
+<summary> <h3><b>Active Directory Home Labs (WIP)</b></h3> </summary>
 
   <details> 
   <summary><b><i>Introduction to Active Directory Users & Computers</i></b></summary>
@@ -83,7 +83,7 @@ With my experience in Hardware and Software setup/installation/configuration/tro
 </details>
 
 <details>
-<summary> <h3>SCCM Home Labs</h3> </summary>
+<summary> <h3>SCCM Home Labs (Coming Soon)</h3> </summary>
 
   <details>
   <summary><b><i>Configuration Manager Basics</i></b></summary>
@@ -160,25 +160,4 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   - [Troubleshooting a Failed Client Push Installation]()
   </details>
   
-</details>
-
-<details>
-<summary><h3>Josh Madakor's (projects as sample portfolio visual reference)</h3></summary>
-  
-- <b> sample PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
- 
-    
-- <b> sample C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
- 
-    
-- <b>sample Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 </details>
