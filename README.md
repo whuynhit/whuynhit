@@ -43,11 +43,11 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   <details>
   <summary><b><i>Managing Workstations</i></b></summary>
   
-  - [Deploying a Desktop Background to Domain with a GPO]()
-  - [Setting Up a Logon Banner (Interactive Logon)]()
-  - [Deploying Software with Group Policy]()
-  - [Configuring Roaming Profiles for User Accounts]()
-  - [How to automatically map network share drives with Group Policy]()
+  - [Deploying a Desktop Background to Domain with a GPO](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/Deploying%20a%20Desktop%20Background%20to%20Domain%20with%20a%20GPO/README.md)
+  - [Setting Up a Logon Banner (Interactive Logon)](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/Setting%20Up%20a%20Logon%20Banner%20(Interactive%20Logon)/README.md)
+  - [Deploying Software with Group Policy](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/Deploying%20Software%20with%20Group%20Policy/README.md)
+  - [Configuring Roaming Profiles for User Accounts](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/Configuring%20Roaming%20Profiles%20for%20User%20Accounts/README.md)
+  - [How to automatically map network share drives with Group Policy](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/How%20to%20Automatically%20Map%20Network%20Share%20Drives%20with%20Group%20Policy/README.md)
   </details>
 
   <details>
