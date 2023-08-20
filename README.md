@@ -62,14 +62,14 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   <details>
   <summary><b><i>How to use Powershell with Active Directory</i></b></summary>
   
-  - [Enabling Script Execution for Powershell]()
-  - [Powershell Basics]()
-  - [Listing Active Directory Users with Powershell]()
-  - [Configure User Roaming Profile Path Powershell]()
-  - [Creating User Accounts with Powershell]()
-  - [Creating User Accounts from a CSV File]()
-  - [Move All Disabled Users to "Disabled Users OU" with Powershell]()
-  - [How to create Active Directory Accounts with duplicate names]()
+  - [Enabling Script Execution for Powershell](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Enabling%20Script%20Execution%20for%20Powershell/README.md)
+  - [Powershell Basics](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Powershell%20Basics/README.md)
+  - [Listing Active Directory Users with Powershell](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Listing%20Active%20Directory%20Users%20with%20Powershell/README.md)
+  - [Configure Profile Path from Users in a Group with Powershell](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Configure%20Profile%20Path%20from%20Users%20in%20a%20Group%20with%20Powershell/README.md)
+  - [Creating User Accounts with Powershell](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Creating%20User%20Accounts%20with%20Powershell/README.md)
+  - [Creating User Accounts from a CSV File](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Creating%20User%20Accounts%20from%20a%20CSV%20File/README.md)
+  - [Move All Disabled Users to "Disabled Users OU" with Powershell](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Move%20All%20Disabled%20Users%20to%20Disabled%20Users%20OU%20with%20Powershell/README.md)
+  - [How to create Active Directory Accounts with duplicate names](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/How%20to%20Create%20Active%20Directory%20Accounts%20with%20Duplicate%20Names/README.md)
 
   </details>
 
