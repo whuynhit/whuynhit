@@ -76,8 +76,8 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   <details>
   <summary><b><i>Active Directory Backups</i></b></summary>
   
-  - [Creating an Active Directory System State Backup]()
-  - [Restoring an Active Directory Backup]()
+  - [Creating an Active Directory System State Backup](https://github.com/whuynhit/ActiveDirectory/blob/main/Active%20Directory%20Backups/Creating%20an%20Active%20Directory%20System%20State%20Backup/README.md)
+  - [Restoring an Active Directory Backup](https://github.com/whuynhit/ActiveDirectory/blob/main/Active%20Directory%20Backups/Restoring%20an%20Active%20Directory%20Backup/README.md)
   </details>
   
 </details>
