@@ -11,7 +11,7 @@ With my experience in Hardware and Software setup/installation/configuration/tro
 <h3><b><a href="https://github.com/whuynhit/LabSetup/blob/main/README.md"> Lab Setup for Active Directory + SCCM </a></b></h3>
 
 <details>
-<summary> <h3><b>Active Directory Home Labs (WIP)</b></h3> </summary>
+<summary> <h3><b>Active Directory Home Labs (Adding commentary soon)</b></h3> </summary>
 
   <details> 
   <summary><b><i>Introduction to Active Directory Users & Computers</i></b></summary>
