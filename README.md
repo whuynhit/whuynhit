@@ -69,7 +69,7 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   - [Creating User Accounts with Powershell](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Creating%20User%20Accounts%20with%20Powershell/README.md)
   - [Creating User Accounts from a CSV File](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Creating%20User%20Accounts%20from%20a%20CSV%20File/README.md)
   - [Move All Disabled Users to "Disabled Users OU" with Powershell](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Move%20All%20Disabled%20Users%20to%20Disabled%20Users%20OU%20with%20Powershell/README.md)
-  - [How to create Active Directory Accounts with duplicate names](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/How%20to%20Create%20Active%20Directory%20Accounts%20with%20Duplicate%20Names/README.md)
+  - [How to Create Active Directory Accounts with Duplicate Names](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/How%20to%20Create%20Active%20Directory%20Accounts%20with%20Duplicate%20Names/README.md)
 
   </details>
 
