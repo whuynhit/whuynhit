@@ -98,20 +98,25 @@ With my experience in Hardware and Software setup/installation/configuration/tro
     
   - [Preparing for Client Installations with Group Policy]()
   - [Client Push Installation]()
+
+  <!--
   - [Deploying the SCCM Client with Group Policy]()
-  - [Manual Client Installation]()
+  - [Manual Client Installation]() -->
   </details>
 
+  <!--
   <details>
   <summary><b><i>Updating SCCM</i></b></summary>
     
   - [Updating SCCM]()
   - [Verifying the Update]()
-  </details>
+  </details> -->
 
   <details>
   <summary><b><i>User and Device Collections</i></b></summary>
-    
+
+
+  - [Collections and Direct Rule Overview]()  
   - [Creating Include/Exclude Collections]()
   - [Query-based User and Device Collections]()
   - [Pull Devices into a Device Collection]()
