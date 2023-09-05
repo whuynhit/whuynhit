@@ -139,6 +139,7 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   - [Monitoring Applications]()
   </details>
 
+  <!--
   <details>
   <summary><b><i>Operating System Deployment</i></b></summary>
     
@@ -164,5 +165,5 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   - [Deploying CMTrace to a Device Collection]()
   - [Troubleshooting a Failed Client Push Installation]()
   </details>
-  
+  -->
 </details>
