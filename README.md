@@ -88,16 +88,16 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   <details>
   <summary><b><i>Configuration Manager Basics</i></b></summary>
     
-  - [Creating and Managing Administrative Users](https://github.com/whuynhit/SCCM)
-  - [Creating Boundary and Boundary Groups](https://github.com/whuynhit/SCCM)
-  - [Client and User Discovery Methods](https://github.com/whuynhit/SCCM)
+  - [Creating and Managing Administrative Users](https://github.com/whuynhit/SCCM/blob/main/Configuration%20Manager%20Basics/Creating%20and%20Managing%20Administrative%20Users/README.md)
+  - [Creating Boundary and Boundary Groups](https://github.com/whuynhit/SCCM/blob/main/Configuration%20Manager%20Basics/Creating%20Boundary%20and%20Boundary%20Groups/README.md)
+  - [Client and User Discovery Methods](https://github.com/whuynhit/SCCM/blob/main/Configuration%20Manager%20Basics/Client%20and%20User%20Discovery%20Methods/README.md)
   </details>
 
   <details>
   <summary><b><i>Deploying The SCCM Client</i></b></summary>
     
-  - [Preparing for Client Installations with Group Policy]()
-  - [Client Push Installation]()
+  - [Preparing for Client Installations with Group Policy](https://github.com/whuynhit/SCCM/blob/main/Deploying%20The%20SCCM%20Client/Preparing%20for%20Client%20Installations%20with%20Group%20Policy/README.md)
+  - [Client Push Installation](https://github.com/whuynhit/SCCM/blob/main/Deploying%20The%20SCCM%20Client/Client%20Push%20Installation/README.md)
 
   <!--
   - [Deploying the SCCM Client with Group Policy]()
@@ -116,27 +116,23 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   <summary><b><i>User and Device Collections</i></b></summary>
 
 
-  - [Collections and Direct Rule Overview]()  
-  - [Creating Include/Exclude Collections]()
-  - [Query-based User and Device Collections]()
-  - [Pull Devices into a Device Collection]()
-  - [Role-based Administration Administrative Security Roles]()
-  - [Assigning a User Collection to an Administrative Security Role]()
-  - [Using Collections to Enable the Remote Control Feature]()
-  - [Deploying Power Management to a Collection]()
-  - [Using a Collection to Enforce a Maintenance Window]()
+  - [Collections and Direct Rule Overview](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Collections%20and%20Direct%20Rule%20Overview/README.md)  
+  - [Creating Include/Exclude Collections](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/README.md)
+  - [Query-based User and Device Collections](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Query-based%20User%20and%20Device%20Collections/README.md)
+  - [Assigning a User Collection to an Administrative Security Role](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Assigning%20a%20User%20Collection%20to%20an%20Administrative%20Security%20Role/README.md)
+  - [Using Collections to Enable the Remote Control Feature](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Using%20Collections%20to%20Enable%20the%20Remote%20Control%20Feature/README.md)
+  - [Using a Collection to Enforce a Maintenance Window](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Using%20a%20Collection%20to%20Enforce%20a%20Maintenance%20Window/README.md)
   </details>
 
   <details>
   <summary><b><i>Application Management</i></b></summary>
     
-  - [Creating an Application using an MSI]()
-  - [Supersedence]()
-  - [Creating an Application using an EXE]()
-  - [Creating an Application that Requires Approval]()
-  - [Creating an Application using the Package Model]()
-  - [Uninstatlling an Application]()
-  - [Monitoring Applications]()
+  - [Creating an Application using an MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/README.md)
+  - [Supersedence](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Supersedence/README.md)
+  - [Creating an Application using an EXE](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20EXE/README.md)
+  - [Creating an Application that Requires Approval](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20that%20Requires%20Approval/README.md)
+  - [Creating an Application using the Package Model](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20the%20Package%20Model/README.md)
+  - [Uninstatlling an Application](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Uninstatlling%20an%20Application/README.md)
   </details>
 
   <!--
