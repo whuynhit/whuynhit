@@ -83,7 +83,7 @@ With my experience in Hardware and Software setup/installation/configuration/tro
 </details>
 
 <details>
-<summary> <h3>SCCM Home Labs [Completed]</h3> </summary>
+<summary> <h3>SCCM Home Labs [Complete]</h3> </summary>
 
   <details>
   <summary><b><i>Configuration Manager Basics</i></b></summary>
