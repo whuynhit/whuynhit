@@ -132,7 +132,7 @@ With my experience in Hardware and Software setup/installation/configuration/tro
   - [Creating an Application using an EXE](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20EXE/README.md)
   - [Creating an Application that Requires Approval](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20that%20Requires%20Approval/README.md)
   - [Creating an Application using the Package Model](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20the%20Package%20Model/README.md)
-  - [Uninstatlling an Application](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Uninstatlling%20an%20Application/README.md)
+  - [Uninstalling an Application](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Uninstatlling%20an%20Application/README.md)
   </details>
 
   <!--
