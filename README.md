@@ -8,9 +8,9 @@ With my experience in Hardware and Software setup/installation/configuration/tro
 
 # 👨‍💻 Information Technology Projects 👨‍💻
 
-<h2><b><a href="https://github.com/whuynhit/LabSetup/blob/main/README.md"> Lab Setup for Active Directory + SCCM </a></b></h2>
+## [- Lab Setup for Active Directory + SCCM -](https://github.com/whuynhit/LabSetup/blob/main/README.md)
 
-## Active Directory Home Labs 
+## - Active Directory Home Labs -
 
 ### Introduction to Active Directory Users & Computers
 
@@ -78,7 +78,7 @@ With my experience in Hardware and Software setup/installation/configuration/tro
 
 
 
-## SCCM Home Labs
+## - SCCM Home Labs -
 
 
 ### Configuration Manager Basics
