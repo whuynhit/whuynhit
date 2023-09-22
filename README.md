@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/william-huynh-78459a264/"> - Aspiring IT Professional - </a> <br/> 
 <a href="https://github.com/whuynhit"> - Ohlone College Graduate - <br/> - Prospective Student at Western Governors University - </a> </h1> 
 
-<h2>About Me</h2>
+# About Me
 I am an aspiring IT professional, recent Ohlone graduate and prospective student at Western Governors University. 
 With my experience in Hardware and Software setup/installation/configuration/troubleshooting, I am seeking opportunities that would allow me to work with a variety of technologies. Especially Cloud Technologies.
 
-<h2>👨‍💻 Information Technology Projects 👨‍💻</h2>
+# 👨‍💻 Information Technology Projects 👨‍💻
 
 <h3><b><a href="https://github.com/whuynhit/LabSetup/blob/main/README.md"> Lab Setup for Active Directory + SCCM </a></b></h3>
 
