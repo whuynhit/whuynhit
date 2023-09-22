@@ -1,5 +1,3 @@
-{::options auto_ids="false" /}
-
 <h1>Hi, I'm William! <br/> 
 <a href="https://www.linkedin.com/in/william-huynh-78459a264/"> - Aspiring IT Professional - </a> <br/> 
 <a href="https://github.com/whuynhit"> - Ohlone College Graduate - <br/> - Prospective Student at Western Governors University - </a> </h1> 
