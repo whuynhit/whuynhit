@@ -8,6 +8,8 @@ With my experience in Hardware and Software setup/installation/configuration/tro
 
 # 👨‍💻 Information Technology Projects 👨‍💻
 
+## [-- Azure Vulnerability Management with OpenVAS --](https://github.com/whuynhit/OpenVas/blob/main/README.md)
+
 ## [-- Lab Setup for Active Directory + SCCM --](https://github.com/whuynhit/LabSetup/blob/main/README.md)
 
 ## -- Active Directory Home Labs --
