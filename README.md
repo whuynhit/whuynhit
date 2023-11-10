@@ -4,7 +4,7 @@
 
 # About Me
 I am an aspiring IT professional, recent Ohlone graduate and prospective student at Western Governors University. 
-With my experience in Hardware and Software setup/installation/configuration/troubleshooting, I am seeking opportunities that would allow me to work with a variety of technologies. Especially Cloud Technologies.
+With my experience in Hardware and Software setup/installation/configuration/troubleshooting, I am seeking opportunities that would allow me to work with a variety of technologies. Especially Cloud and Security Technologies.
 
 # 👨‍💻 Information Technology Projects 👨‍💻
 
